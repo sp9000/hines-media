@@ -4,7 +4,9 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Hines Media Family`,
+    siteTitleAlt: `Hines Media Family - Global Brands`,
+
   },
   plugins: [
     {
@@ -45,7 +47,7 @@ module.exports = {
       options: {
         name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
         short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        description: `Diverse, technology driven, media company producing a broad range of informative and entertaining video content on the internet. `,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
