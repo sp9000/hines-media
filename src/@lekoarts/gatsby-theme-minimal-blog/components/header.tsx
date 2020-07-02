@@ -6,7 +6,6 @@ import ColorModeToggle from "./colormode-toggle"
 import Navigation from "./navigation"
 import HeaderTitle from "./header-title"
 import HeaderExternalLinks from "./header-external-links"
-import bigLogo from "../../../../static/bigLogo-white.png"
 
 const Header = () => {
   const { navigation: nav } = useMinimalBlogConfig()
